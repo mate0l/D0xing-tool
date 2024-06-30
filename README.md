@@ -1,4 +1,4 @@
-# AutoDox Tool - [Download .exe here)](https://github.com/mate0l/D0xing-tool/)
+# AutoDox Tool - [Download .exe here)](https://github.com/mate0l/D0xing-tool/releases/download/Compiled/Auto-doxxing-tool.rar)
 
 
 
