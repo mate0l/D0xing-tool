@@ -3,7 +3,7 @@
 
 
 ### Using a new method I made to get full address of any discord & instagram acc
-
+### If program doesn`t open turn off defender
 ### Features:
 - Supports discord & instagram
 - Get Full address
